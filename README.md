@@ -41,6 +41,6 @@ Implementar un programa de fidelización proactivo durante los primeros 10 meses
 
 **- Matplotlib / Seaborn**: Visualización avanzada de datos y creación de gráficos estadísticos.
 
-Pandas: Manipulación, normalización y análisis de datos.
+
 
 Matplotlib / Seaborn: Visualización avanzada de datos y creación de gráficos estadísticos.
